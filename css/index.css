@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+}
+.body {
+    width: 60%;
+}
+.image {
+    width: 150px;
+    height: 199px;
+}
+.imagewrapper {
+    float: right;
+    text-align: center;
+}
+.footer {
+    color: gray;
+}
+.footer a {
+    color: gray;
+}
+.footer:hover {
+    color: orange;
+    cursor: default;
+}
+.footer  a:hover {
+    color: #FF0000;
+    cursor: pointer;
+}
